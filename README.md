@@ -2,4 +2,6 @@
 
 ---
 ## Credits
-All of the Images used are linked to the official webpage. (https://www.raspberrypi.com/products/raspberry-pi-5/)
+Thanks to Raspberry Pi Ltd (https://www.raspberrypi.com/products/raspberry-pi-5/) for images.
+Thanks to https://unsplash.com for images.
+#### Images are directly linked to the source so u can access them by right-clicking on the image. 
